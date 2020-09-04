@@ -1,4 +1,4 @@
-package jgcodes.clickbot.util;
+package jgcodes.clickbot.scene;
 
 import javafx.scene.Node;
 import javafx.scene.layout.GridPane;
